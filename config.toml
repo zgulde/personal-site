@@ -1,0 +1,8 @@
+baseurl = "https://blog.zgul.de/"
+languageCode = "en-us"
+title = "(zach-gulde)"
+theme = "my-slim-fork"
+
+[params]
+  Subtitle = "Curriculum Developer"
+  GithubID = "zgulde"

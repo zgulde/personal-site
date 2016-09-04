@@ -228,6 +228,9 @@ gallium. You'll see a blank screen for a second, and then gallium's loading
 screen! From here you can log in with the username and password you setup in the
 install process and start exploring your new os.
 
+Note that you will see the chrome scare screen every time you boot, but your new
+os is just a quick `ctrl + l` away!
+
 ## Sources and Handy Links
 
 - [Gallium OS Hardware Compatibility Table](https://wiki.galliumos.org/Hardware_Compatibility)

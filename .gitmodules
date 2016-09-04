@@ -1,0 +1,3 @@
+[submodule "themes/my-slim-fork"]
+	path = themes/my-slim-fork
+	url = git@github.com:zgulde/hugo-theme-slim

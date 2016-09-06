@@ -226,7 +226,9 @@ After the installation process completes and your machine reboots, you'll see
 the white scare screen again. Don't worry, just hit `ctrl + l` to boot into
 gallium. You'll see a blank screen for a second, and then gallium's loading
 screen! From here you can log in with the username and password you setup in the
-install process and start exploring your new os.
+install process and start exploring your new os. Change the colorschemes, [copy
+over your config files](https://github.com/zgulde/dotfiles), or [make your
+capslock (or search) key do something useful](/post/make-capslock-useful/).
 
 ## Sources and Handy Links
 

@@ -64,7 +64,7 @@ principal can be applied to other OSs.
     - change the keycode to `110`. This is the keycode for the PC application button, so it is something one would never use in osx
 4. add a custom private.xml file for Karabiner
     - in Karabiner under the 'Misc & Uninstall' tab there is a button to open private.xml, this will open a finder in the location 
-    - Feel free to copy my private.xml file here
+    - Feel free to copy [my private.xml](https://github.com/zgulde/dotfiles/blob/master/private.xml) file here
     - quit and reload Karabiner for the changes to take place
     - If you copied my file you should see a setting on the top that says 'My capslock key settings'. Make sure this is checked
     - If you modify private.xml, remember you must click the reload xml button in Karabiner for the changes to take place

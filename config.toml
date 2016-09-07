@@ -6,3 +6,6 @@ theme = "my-slim-fork"
 [params]
   Subtitle = "Curriculum Developer"
   GithubID = "zgulde"
+
+[blackfriday]
+  plainIDAnchors = true

@@ -1,2 +1,7 @@
 #!/bin/bash
+
+# build everything
+hugo
+
+# copy it onto the server
 scp -r public/ warpspeed@$MY_SERVER:/home/warpspeed/sites/blog.zgul.de/

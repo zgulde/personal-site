@@ -230,6 +230,9 @@ install process and start exploring your new os. Change the colorschemes, [copy
 over your config files](https://github.com/zgulde/dotfiles), or [make your
 capslock (or search) key do something useful](/post/make-capslock-useful/).
 
+Note that you will see the chrome scare screen every time you boot, but your new
+os is just a quick `ctrl + l` away!
+
 ## Sources and Handy Links
 
 - [Gallium OS Hardware Compatibility Table](https://wiki.galliumos.org/Hardware_Compatibility)

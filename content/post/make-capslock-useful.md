@@ -34,13 +34,13 @@ The general idea is to not stray from the home row as much as possible. Less mov
 
 - `caps + F` : `<-`
 
+- `caps + qe` : home and end
+
 - `caps + space` : escape key
 
 - `caps + wasd` : arrow keys
 
 - `caps + hjkl` : also arrow keys
-
-- `caps + qe` : home and end
 
 - `caps + delete` : delete, not backspace
 
